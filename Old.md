@@ -1,6 +1,3 @@
-# AWS-Lambda-Ec2-Stop-and-Start
-Stop e Start com função em lambada e eventbridge!
-
 # Stop Start Ec2 python code #
 
 Utilização dos recursos da AWS com sabedoria e redução de custos desnecessário para ambientes de Dev,Hml até Prod se for necessário.
@@ -16,5 +13,3 @@ Utilização dos recursos da AWS com sabedoria e redução de custos desnecessá
   * [Link](https://www.youtube.com/watch?v=oISuE16pGFQ)
 
   * Pdf com as configurações geral
-
-  # Subir manual atualizado ***
